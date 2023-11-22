@@ -1,2 +1,2 @@
 # issues
-Issue tracker repo
+Issue tracker repo for Edos Digital tournament platform
